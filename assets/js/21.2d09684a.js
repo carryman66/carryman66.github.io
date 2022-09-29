@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[21],{436:function(t,n,s){"use strict";s.r(n);var e=s(2),o=Object(e.a)({},(function(){var t=this._self._c;return t("ContentSlotsDistributor",{attrs:{"slot-key":this.$parent.slotKey}},[t("p",[this._v("后台不直接面向用户，而是面向用户的维护者比如运营人员，老板，具有一套配置管理的功能，后台能为前台[[前台]]提供一些简单的配置")])])}),[],!1,null,null,null);n.default=o.exports}}]);
